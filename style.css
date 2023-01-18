@@ -1,0 +1,14 @@
+body {
+	font-family: Arial;
+}
+
+
+.centered {
+	text_align: centered;
+}
+
+
+
+#name {
+	font-size: 10px;
+}
